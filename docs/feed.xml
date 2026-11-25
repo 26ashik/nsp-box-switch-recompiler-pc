@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NSP Box Switch to PC Static Recompiler & Launcher Release Feed</title>
+  <link href="https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/feed.xml" rel="self"/>
+  <link href="https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/"/>
+  <updated>2026-11-25T15:18:41Z</updated>
+  <id>https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/</id>
+  <entry>
+    <title>NSP Box Switch to PC Static Recompiler & Launcher v3.1.5 Portable Release</title>
+    <link href="https://github.com/JisungDiaz447/nsp-box-switch-recompiler-pc/releases/download/v3.1.5/nsp-box-switch-recompiler-pc-v3.1.5-win64.zip"/>
+    <id>https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/#v3.1.5</id>
+    <updated>2026-11-25T15:18:41Z</updated>
+    <summary>NSP Box Switch to PC Static Recompiler & Launcher (v3.1.5) — Portable 64-bit Windows workstation build with CUDA/DirectML acceleration and.</summary>
+  </entry>
+</feed>

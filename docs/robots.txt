@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/sitemap.xml

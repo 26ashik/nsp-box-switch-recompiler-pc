@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "NSP Box Switch to PC Static Recompiler & Launcher"
+abstract: "NSP Box Switch to PC Static Recompiler & Launcher (v3.1.5) — Portable 64-bit Windows workstation build with CUDA/DirectML acceleration and."
+authors:
+  - alias: "JisungDiaz447"
+    name: "JisungDiaz447"
+version: "3.1.5"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/JisungDiaz447/nsp-box-switch-recompiler-pc"
+url: "https://JisungDiaz447.github.io/nsp-box-switch-recompiler-pc/"
